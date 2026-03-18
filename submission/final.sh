@@ -225,7 +225,7 @@ else
   exit 1
 fi
 
-# CHALLENGE COMPLETE
+# CHALLENGE COMPLETE 
 echo ""
 echo "TREASURE HUNT COMPLETE!"
 echo "======================="
